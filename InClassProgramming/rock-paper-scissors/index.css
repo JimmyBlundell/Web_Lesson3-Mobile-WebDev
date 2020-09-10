@@ -18,7 +18,7 @@
     padding-top: 12px;
 }
 
-.buttonClear {
+#buttonClear {
     background: red;
     float: left;
     grid-column-start: 2;
