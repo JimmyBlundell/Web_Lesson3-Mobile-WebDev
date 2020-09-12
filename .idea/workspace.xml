@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc9071f-7b56-453b-a513-3b34c5f55da8" name="Default Changelist" comment="Completed basic functionality for rock paper scissors game">
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/eight-puzzle-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/profile-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/prolog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/ramen-noodles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/MyImages/schedule-generator.png" afterDir="false" />
+    <list default="true" id="7bc9071f-7b56-453b-a513-3b34c5f55da8" name="Default Changelist" comment="Added some bootstrap">
+      <change afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/input.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/InClassProgramming/RWD Task/input/input.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InClassProgramming/rock-paper-scissors/test.html" beforeDir="false" />
@@ -53,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599704744311</updated>
-      <workItem from="1599704745422" duration="20864000" />
+      <workItem from="1599704745422" duration="28243000" />
     </task>
     <task id="LOCAL-00001" summary="Completed basic functionality for rock paper scissors game">
       <created>1599766615843</created>
@@ -62,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599766615844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some bootstrap">
+      <created>1599869491845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599869491848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,7 +72,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed basic functionality for rock paper scissors game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed basic functionality for rock paper scissors game" />
+    <MESSAGE value="Added some bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some bootstrap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="340" width="729" height="307" key="Github.ShareDialog" timestamp="1599715952342">
@@ -81,9 +84,9 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="597" y="263" key="Github.UntrackedFilesDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599715960252" />
-    <state x="576" y="217" key="Vcs.Push.Dialog.v2" timestamp="1599766624040">
+    <state x="576" y="217" key="Vcs.Push.Dialog.v2" timestamp="1599869533434">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="576" y="217" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599766624040" />
+    <state x="576" y="217" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1599869533434" />
   </component>
 </project>
